@@ -1,0 +1,25 @@
+/*
+  Theme Name: theme name
+  Theme URI: theme url
+  Description: your description
+  Author: Maya Comunicação
+  Author uri: http://mayacomunicacao.com.br
+  License: GPL
+  Version: 1.0
+  Domain Path: /languages
+*/
+
+@charset "UTF-8";
+
+:root {
+    --color-main: #;
+    --color-base: #;
+    --color-third: #;
+}
+
+.whats{
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+  z-index: 99;
+}
