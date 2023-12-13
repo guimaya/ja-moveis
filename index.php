@@ -1,11 +1,13 @@
 <?php /* Template Name: [Template] Home */ get_header();
 
-  ?>
-  
-  <section>
-    <!-- contents -->
-  </section>
+get_template_part('template-parts/hero');
 
-  <?php
+?>
+
+<section>
+  <!-- contents -->
+</section>
+
+<?php
 
 get_footer();
